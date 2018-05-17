@@ -1,5 +1,5 @@
 <!-- Start of auto generated data from MIB: CXC-MIB -->
-<events xmlns="http://xmlns.opennms.org/xsd/eventconf">
+<events xmlns="https://xmlns.opennms.org/xsd/eventconf">
     <event>
         <mask>
             <maskelement>
@@ -15211,18 +15211,6 @@
                 <vbnumber>5</vbnumber>
                 <vbvalue>Normal</vbvalue>
             </varbind>
-            <varbind>
-                <vbnumber>4</vbnumber>
-                <vbvalue></vbvalue>
-            </varbind>
-            <varbind>
-                <vbnumber>3</vbnumber>
-                <vbvalue></vbvalue>
-            </varbind>
-            <varbind>
-                <vbnumber>2</vbnumber>
-                <vbvalue></vbvalue>
-            </varbind>
         </mask>
         <uei>uei.opennms.org/vendors/Covergence/CXC-MIB/sIPCallFail/NoUsefulInfo</uei>
         <event-label>CXC-MIB defined trap event: sIPCallFail</event-label>
@@ -15277,10 +15265,6 @@
             <varbind>
                 <vbnumber>5</vbnumber>
                 <vbvalue>Normal</vbvalue>
-            </varbind>
-            <varbind>
-                <vbnumber>4</vbnumber>
-                <vbvalue></vbvalue>
             </varbind>
         </mask>
         <uei>uei.opennms.org/vendors/Covergence/CXC-MIB/sIPCallFail/NoReason</uei>
